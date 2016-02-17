@@ -7,7 +7,7 @@ import java.io.Serializable;
 import java.util.List;
 
 /**
- * @author DOIBALMI
+ * @author jlumietu
  *
  */
 public class DataSourceGroupStatus implements Serializable {

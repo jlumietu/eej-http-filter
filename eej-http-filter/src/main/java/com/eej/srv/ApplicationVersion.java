@@ -4,7 +4,7 @@
 package com.eej.srv;
 
 /**
- * @author DOIBALMI
+ * @author jlumietu
  *
  */
 public abstract class ApplicationVersion {

@@ -22,7 +22,7 @@ import org.apache.log4j.Logger;
 import com.eej.srv.http.ByteArrayPrintWriter;
 
 /**
- * @author DOIBALMI
+ * @author jlumietu
  *
  */
 public class ResponseFilter implements Filter{

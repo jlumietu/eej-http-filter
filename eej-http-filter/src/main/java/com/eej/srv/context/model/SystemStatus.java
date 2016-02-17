@@ -12,7 +12,7 @@ import com.eej.srv.ApplicationVersion;
 
 
 /**
- * @author DOIBALMI
+ * @author jlumietu
  *
  */
 public class SystemStatus implements Serializable {
