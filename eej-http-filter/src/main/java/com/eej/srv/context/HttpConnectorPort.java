@@ -2,7 +2,7 @@ package com.eej.srv.context;
 
 /**
  * 
- * @author jlumietu
+ * @author jlumietu - jlumietu@gmail.com
  *
  */
 public interface HttpConnectorPort {
