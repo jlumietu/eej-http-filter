@@ -50,4 +50,11 @@
 	</dependency>
   
   </dependencies>
+  <distributionManagement>
+  	<repository>
+  		<id>dbRepo</id>
+		<name>db-Distributed-Repo</name>
+		<url>file:///D:/Usuarios/doibalmi/Dropbox/mvnDbRepo/</url>
+  	</repository>
+  </distributionManagement>
 </project>
