@@ -9,7 +9,7 @@ import com.eej.srv.ApplicationVersion;
 
 
 /**
- * @author jlumietu
+ * @author jlumietu - Mikel Ibiricu Alfaro
  *
  */
 public class DataSourceStatus implements Serializable {

@@ -34,7 +34,7 @@ import org.apache.tomcat.dbcp.dbcp.BasicDataSource;
 
 
 /**
- * @author jlumietu
+ * @author jlumietu - Mikel Ibiricu Alfaro
  *
  */
 public class ContextManagerUtilities implements HttpConnectorPort, ContextManagement{

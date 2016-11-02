@@ -9,7 +9,7 @@ import java.io.IOException;
 import javax.servlet.ServletOutputStream;
 
 /**
- * @author jlumietu
+ * @author jlumietu - Mikel Ibiricu Alfaro
  *
  */
 public class ByteArrayServletStream extends ServletOutputStream {

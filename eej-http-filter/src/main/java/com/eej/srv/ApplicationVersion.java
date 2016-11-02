@@ -4,7 +4,7 @@
 package com.eej.srv;
 
 /**
- * @author jlumietu
+ * @author jlumietu - Mikel Ibiricu Alfaro
  *
  */
 public abstract class ApplicationVersion {
